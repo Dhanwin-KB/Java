@@ -67,8 +67,9 @@ public class LabEx1
 		g1.show();
 		g2.show();
 		g3.show();
-		// methods invoked to demonstrate method overloading
+		//Default Constructor
 		Players p1= new Players();
+		// methods invoked to demonstrate method overloading
 		p1.show();
 		p1.show(1);
 		p1.show(1,"Tomb Raider");

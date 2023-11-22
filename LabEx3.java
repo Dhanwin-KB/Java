@@ -1,5 +1,5 @@
 import java.util.*;
-public class Gaming
+public class LabEx3
 {
 	static abstract class Game 
 	{
